@@ -13,4 +13,5 @@
 1_mking_1_mking_1_mking_9_mking_4 5 Shanba
 1_mking_0_mking_2_mking_8_mking_7 Jumma
 1_mking_1_mking_2_mking_0_mking_2 Iraq
-1_mking_0_mking_3_mking_2_mking_8  younus
+1_mking_0_mking_3_mking_2_mking_8  3 shanba
+1_mking_0_mking_3_mking_5_mking_1  4 shanba
