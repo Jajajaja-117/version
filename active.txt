@@ -1,17 +1,8 @@
-1_mking_0_mking_4_mking_0_mking_2
 96263F22DE~~Mking==
 1_mking_0_mking_3_mking_0_mking_6 4 Shanba
-1_mking_0_mking_2_mking_1_mking_1
-1_mking_0_mking_4_mking_9_mking_5 3 Shanba
-1_mking_0_mking_2_mking_3_mking_2 3 Shanba
-1_mking_0_mking_3_mking_9_mking_1 3 Shanba
-1_mking_0_mking_2_mking_7_mking_2 3 Shanba
 1_mking_0_mking_1_mking_4_mking_1 4 Shanba
 1_mking_0_mking_2_mking_8_mking_9 5 Shanba
 1_mking_0_mking_3_mking_7_mking_3 5 Shanba
 1_mking_1_mking_1_mking_9_mking_4 5 Shanba
-1_mking_0_mking_2_mking_8_mking_7 Jumma
-1_mking_1_mking_2_mking_0_mking_2 Iraq
-1_mking_0_mking_3_mking_2_mking_8  3 shanba
 1_mking_0_mking_2_mking_7_mking_4  shanba
 6297B8DDC9~~Mking==
