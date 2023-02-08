@@ -4,9 +4,7 @@
 00E260FDDB~~Mking==
 2A827AC590~~Mking==
 26B01D9C9B~~Mking==
-1_mking_0_mking_3_mking_0_mking_6 4 Shanba
-1_mking_0_mking_1_mking_4_mking_1 4 Shanba
-1_mking_0_mking_2_mking_8_mking_9 5 Shanba
+074728395B~~Mking== 4 shanba
 C5390FA43B~~Mking== 5 Shanba
 1_mking_1_mking_1_mking_9_mking_4 5 Shanba
 6297B8DDC9~~Mking==
